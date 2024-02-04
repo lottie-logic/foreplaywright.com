@@ -1,7 +1,7 @@
 {
   "name": "foreplaywright",
-  "version": "1.0.2",
-  "description": "A TypeScript library to simplify Playwright test writing with enhanced utilities.",
+  "version": "1.0.25",
+  "description": "Simple utility classes for testing with Playwright. Easily memorised and maintained.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
 
