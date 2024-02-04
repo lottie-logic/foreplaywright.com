@@ -87,34 +87,47 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Simplified Testing with Playwright",
+    title:
+      "🎭 Seductively Simple Naming: Less Guesswork, More Pleasure in Testing",
     Svg: "🎭",
     description: (
       <>
-        Abstracting the complexities of Playwright, allowing testers and
-        developers to write tests more efficiently and effectively.
+        ForePlaywright teases out the complexity of Playwright, offering
+        function names that are as easy to grasp as they are hard to forget.
+        Crafted for immediate recall and minimal fuss, our library turns the
+        chore of test writing into an enticing experience. Step into an
+        intuitive testing session where efficiency meets allure, and writing
+        tests becomes as enjoyable as anticipating their flawless execution.
       </>
     ),
   },
   {
-    title: " Rich Documentation",
+    title: "Enticing Documentation: Each Function, Unveiled with Charm",
     Svg: "📖",
     description: (
       <>
-        Comprehensive documentation that explains each feature, method, and
-        option in detail. Handle common testing scenarios, and make the most of
-        Playwright's capabilities.
+        Dive into the depths of Playwright with ForePlaywright's provocatively
+        detailed documentation. Every utility is stripped down to its essentials
+        and presented with clarity, turning the mundane task of reading manuals
+        into a captivating exploration. Embrace the power to effortlessly
+        conquer testing challenges, armed with knowledge that's as engaging as
+        it is informative.
       </>
     ),
   },
   {
-    title: "Easy to Write Speedy Testing",
+    title:
+      "Irresistible Integration: Flirt with Functionality, From Novices to Experts",
     Svg: "🧪",
     description: (
       <>
-        Just look at the website you want to test, and write everything out with
-        clear language. I want to check that heading so I'll write{" "}
-        <code>getHeading</code>
+        ForePlaywright invites you to flirt with testing success through our
+        straightforward, seductive syntax. Envision the test scenario,
+        articulate your desires in code, and watch as ForePlaywright responds
+        with precision and grace. Tailored for the eager beginner and the
+        experienced connoisseur alike, our library makes entering the spotlight
+        of quality assurance an affair to remember, simplifying testing with a
+        wink and a nod towards excellence.
       </>
     ),
   },
